@@ -1,5 +1,5 @@
 # Easy Real time gender age prediction from webcam video with Keras
-This is complementary source code for my [blog post](https://www.dlology.com/blog/easy-real-time-gender-age-prediction-from-webcam-video-with-keras/).
+
 
  Here is the demo
 
